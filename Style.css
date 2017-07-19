@@ -8,6 +8,11 @@ div.page-header{
     padding-top:3px;
     margin-bottom:0px;
 }
+/*general styling*/
+body {
+    background-color:#FFF6F0
+}
+
 /*NAVBAR STYLING*/
 nav#navvy.navbar.navbar-static-top {
     margin-bottom: 0px;
@@ -27,4 +32,8 @@ nav#navvy.navbar.navbar-static-top {
 }
 h1.container#trailer {
     text-align:right;
+}
+/*Preview section styling*/
+.previewThem {
+    margin:auto;
 }
